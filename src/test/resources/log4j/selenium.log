@@ -1,0 +1,8 @@
+16:03:54,880  INFO LoginInToSiebel:27 - Application url Loaded 
+16:03:55,118  INFO Base:152 - Typed the test vvenkat2into the Elementmsid_btn__xpath
+16:03:55,118  INFO LoginInToSiebel:34 - MS id entered as vvenkat2
+16:03:55,215  INFO Base:152 - Typed the test Siddhu*3into the Elementpassword_btn_xpath
+16:03:55,216  INFO LoginInToSiebel:40 - Password Entered
+16:04:02,282  INFO Base:140 - login_btn_xpathclicked
+16:04:02,282  INFO LoginInToSiebel:48 - Login button clicked
+16:04:04,247  INFO LoginInToSiebel:56 - Login sucessfull
